@@ -1,4 +1,4 @@
-# myapp
+# easydiet
 
 A new Flutter project.
 

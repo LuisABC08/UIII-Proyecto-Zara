@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "745350814117",
+    "project_id": "easydiet-568f1",
+    "storage_bucket": "easydiet-568f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745350814117:android:fd6bb192a1d0799aeaf04c",
+        "android_client_info": {
+          "package_name": "com.example.easydiet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1msTTCI5bO7w6ju-fVtVJM73gxVwjlF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
